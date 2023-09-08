@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    padding-top: 100px;
+}
+
+header {
+    font-size: 21px;
+}
+
+header , form , ul{
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+form input {
+    font-size: 16px;
+    padding: 8px;
+}
+
+form button {
+    font-size: 20px;
+    border:none;
+    background-color: rgb(26, 26, 168);
+    color:#fff;
+}
+
+ul{
+    margin-right: 17%;
+}
+
+.finalizada {
+    text-decoration: line-through
+}
